@@ -81,7 +81,7 @@ a:hover {color:#80A24A;}   /* mouse over link */
 <body>
 <div id="header_container">
     <div id="header">
-       Employee Management System @ Vatsal new maven
+       Employee Management System @ Vatsal DEMO
     </div>
 </div>
 <div class="smart-green" >
