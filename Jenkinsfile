@@ -5,7 +5,7 @@ pipeline{
 		stage ('clone'){
 		
 			steps{
-				git 'https://github.com/vatsalkumarr/MavenDemoRepo.git'
+				git 'https://github.com/vatsalkumarr/EMS.git/'
 				}
 		}
 		
