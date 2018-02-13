@@ -25,7 +25,7 @@ pipeline{
 				       '-Dsonar.projectName=EMS_Master ' +
 	  	  '-Dsonar.projectVersion=1.0 ' +
 		 '-Dsonar.sources=src ' +
-	 	 '-Dsonar.java.binaries=target/classes' +
+	 	 '-Dsonar.java.binaries=target/classes ' +
          	 '-Dsonar.login=admin ' +
          	 '-Dsonar.password=admin123 ' 
 		      }
